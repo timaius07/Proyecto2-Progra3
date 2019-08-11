@@ -1,0 +1,20 @@
+C:\Users\Emanuel EC\Desktop\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Emanuel EC\Desktop\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Emanuel EC\Desktop\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Emanuel EC\Desktop\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Marco\Dropbox\1° Proyecto Agenda Social\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Marco\Dropbox\1° Proyecto Agenda Social\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Marco\Dropbox\1° Proyecto Agenda Social\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Dropbox\1° Proyecto Agenda Social\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Marco\Dropbox\1° Proyecto Agenda Social\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\Entidades\obj\Debug\Entidades.pdb

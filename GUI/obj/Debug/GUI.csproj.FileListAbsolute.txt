@@ -1,0 +1,42 @@
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\GUI.exe
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\GUI.pdb
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\BO.dll
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Entidades.dll
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\DAO.dll
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Npgsql.dll
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\BO.pdb
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Entidades.pdb
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\DAO.pdb
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Npgsql.xml
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Correo.resources
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.frmJuego.resources
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Login.resources
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Registrarse.resources
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.VictoriaJugadores.resources
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.exe
+C:\Users\Emanuel EC\Dropbox\2° Proyecto Dobles Navideños\Emanuel_Esquivel_C_Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.pdb
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\GUI.exe
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\GUI.pdb
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\BO.dll
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Entidades.dll
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\DAO.dll
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Npgsql.dll
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\BO.pdb
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Entidades.pdb
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\DAO.pdb
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\bin\Debug\Npgsql.xml
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Correo.resources
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.frmJuego.resources
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Login.resources
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.Registrarse.resources
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.VictoriaJugadores.resources
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.exe
+C:\Users\Marco\Downloads\Marco_Cambronero_V_Juegos_Educativos\GUI\obj\Debug\GUI.pdb
